@@ -1,4 +1,4 @@
-TEST_PASTE# CENG313 – Introduction to Data Science · Course Project
+# CENG313 – Introduction to Data Science · Course Project
 
 **Course organization:** [github.com/ceng313-2026](https://github.com/ceng313-2026)
 
